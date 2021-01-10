@@ -4,6 +4,5 @@
     해당 블로그는 제가 <strong>`평소에 생각하는 것`</strong>과 <strong>`개발에 관한 내용`</strong>을 작성하는 공간입니다.</p>
     <p align="center"><strong><a href="https://Siyeon-dev.github.io/">See it in Blog!</a></strong></p>
     <br>
-    <p align="center">If you want to contact with me 📨 
-    <br><a mailto="siyeon.dev@gmail.com">Click here!</p>
+    </p>
 </p>
