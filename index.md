@@ -20,8 +20,11 @@ permalink: /
 
 최근 포스트
 
+<!-- 1. date가 있는 모든 post를 가져오기 -->
+<!-- 2. 가져온 post를 최신 순으로 정렬하기 -->
 {% for post in site.posts %}
 
-{{ post.title }} {{ post.date | date_to_long_string }}
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+{{ post.date | date_to_long_string }}
 
 {% endfor %}
