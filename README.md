@@ -5,5 +5,5 @@
     <p align="center"><strong><a href="https://Siyeon-dev.github.io/">See it in Blog!</a></strong></p>
     <br>
     <p align="center">If you want to contact with me 📨 
-    <br><a mailto:"siyeon.dev@gmail.com">Click here!</p>
+    <br><a mailto="siyeon.dev@gmail.com">Click here!</p>
 </p>
