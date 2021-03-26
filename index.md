@@ -4,11 +4,14 @@ title: Home
 nav_order: 1
 permalink: /
 ---
+
 {: .text-grey-dk-100}
 
+# こんにちは！
 
-# 안녕하세요.
 {: .fw-700 }
+
+成長するのが大好きな開発者パク・シヨン（Siyeon Park)と申します。フロントエンド開発とビズネスやサービス企画について興味があります。主に本を読んで何かを書いたりギターを弾いたりします。他の人と一緒にもん
 
 성장하는 것을 좋아하는 개발자 박시연(Siyeon Park)입니다. 프론트앤드 개발과 비즈니스 및 기획에 관심이 많습니다. 주로 책을 읽고 글을 쓰거나 기타를 치면서 시간을 보냅니다. 사람들과 함께 문제를 해결하는 과정에서 행복감을 느끼며, 따뜻한 커피☕️ 와 재즈🎷 를 가장 좋아합니다. 저에 대해서 궁금한 점이 있으시다면 <siyeon.dev@gmail.com>로 연락 주세요. 감사합니다.
 {: .fs-5 .fw-500 }
@@ -16,12 +19,14 @@ permalink: /
 [View it on GitHub](https://github.com/siyeon-dev){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
+
 {: .fs-6 }
 
 최근 포스트
 
 <!-- 1. date가 있는 모든 post를 가져오기 -->
 <!-- 2. 가져온 post를 최신 순으로 정렬하기 -->
+
 {% for post in site.posts %}
 
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
